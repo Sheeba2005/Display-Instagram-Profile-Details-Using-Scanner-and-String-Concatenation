@@ -1,0 +1,2 @@
+# Display-Instagram-Profile-Details-Using-Scanner-and-String-Concatenation
+This Java program demonstrates how to read and display user-related data through the use of the Scanner class. It focuses on collecting simple Instagram profile details—such as the user’s name, number of followers, number of posts, and average daily usage time—and then displaying the collected information in a descriptive sentence
